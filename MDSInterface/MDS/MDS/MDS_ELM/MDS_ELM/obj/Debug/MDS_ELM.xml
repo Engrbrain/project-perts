@@ -1,0 +1,2868 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MDS_ELM
+</name>
+</assembly>
+<members>
+<member name="F:MDS_ELM.FailedToLoad.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.FailedToLoad.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.FailedToLoad.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.FailedToLoad.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.FailedToLoad.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Login.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Login.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Login.txtUsername">
+	<summary>
+txtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Login.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Login.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Login.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.PendingDocuments.ViewCurrentLoad">
+	<summary>
+ViewCurrentLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.tblDataGrid">
+	<summary>
+tblDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.txtSearch">
+	<summary>
+txtSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.TextBoxWatermarkExtender1">
+	<summary>
+TextBoxWatermarkExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.btnSearching">
+	<summary>
+btnSearching control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.ImgBAddNew">
+	<summary>
+ImgBAddNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.ImgBDelete">
+	<summary>
+ImgBDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.dgSalesPerson">
+	<summary>
+dgSalesPerson control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.tblAddNewAccount">
+	<summary>
+tblAddNewAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.ddlPersonnelInformation">
+	<summary>
+ddlPersonnelInformation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.txtSAPFullName">
+	<summary>
+txtSAPFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.ddlDeport">
+	<summary>
+ddlDeport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.ddlActive">
+	<summary>
+ddlActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.tblDeleteCaution">
+	<summary>
+tblDeleteCaution control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewSalesPerson.btnIAmSure">
+	<summary>
+btnIAmSure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Testing.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Testing.Extract_From_ELM">
+	<summary>
+Extract_From_ELM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.tblDataGrid">
+	<summary>
+tblDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtSearch">
+	<summary>
+txtSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.TextBoxWatermarkExtender1">
+	<summary>
+TextBoxWatermarkExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.btnSearching">
+	<summary>
+btnSearching control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.ImgBAddNew">
+	<summary>
+ImgBAddNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.ImgBDelete">
+	<summary>
+ImgBDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.dgSalesPerson">
+	<summary>
+dgSalesPerson control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.tblAddNewAccount">
+	<summary>
+tblAddNewAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtLastName">
+	<summary>
+txtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtPersonnelNumber">
+	<summary>
+txtPersonnelNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtEmailAdress">
+	<summary>
+txtEmailAdress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.ddlUserRoles">
+	<summary>
+ddlUserRoles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.txtOtherInformation">
+	<summary>
+txtOtherInformation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.lblMsg1">
+	<summary>
+lblMsg1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.lblUserName1">
+	<summary>
+lblUserName1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.tblDeleteCaution">
+	<summary>
+tblDeleteCaution control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.RegisterUsers.btnIAmSure">
+	<summary>
+btnIAmSure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.WebUserControl1.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CustomerMapping.AddNewCustomers">
+	<summary>
+AddNewCustomers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.tblDataGrid">
+	<summary>
+tblDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.txtSearch">
+	<summary>
+txtSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.TextBoxWatermarkExtender1">
+	<summary>
+TextBoxWatermarkExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.btnSearching">
+	<summary>
+btnSearching control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.ImgBAddNew">
+	<summary>
+ImgBAddNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.ImgBDelete">
+	<summary>
+ImgBDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.dgSalesPerson">
+	<summary>
+dgSalesPerson control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.tblAddNewAccount">
+	<summary>
+tblAddNewAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.ddlELMMaterialCode">
+	<summary>
+ddlELMMaterialCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.txtELMDescription">
+	<summary>
+txtELMDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.ddlSAPMaterialCode">
+	<summary>
+ddlSAPMaterialCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.txtSAPDescription">
+	<summary>
+txtSAPDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.ddlDivision">
+	<summary>
+ddlDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.ddlActive">
+	<summary>
+ddlActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.tblDeleteCaution">
+	<summary>
+tblDeleteCaution control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewMaterial.btnIAmSure">
+	<summary>
+btnIAmSure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.CreateUsers.RegisterUsers">
+	<summary>
+RegisterUsers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StorageLocationMapping.AddNewStorageLocation">
+	<summary>
+AddNewStorageLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.tblDataGrid">
+	<summary>
+tblDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.txtSearch">
+	<summary>
+txtSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.TextBoxWatermarkExtender1">
+	<summary>
+TextBoxWatermarkExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.btnSearching">
+	<summary>
+btnSearching control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.ImgBAddNew">
+	<summary>
+ImgBAddNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.ImgBDelete">
+	<summary>
+ImgBDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.dgSalesPerson">
+	<summary>
+dgSalesPerson control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.tblAddNewAccount">
+	<summary>
+tblAddNewAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.ddlELMCustomerCode">
+	<summary>
+ddlELMCustomerCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.txtELMFullName">
+	<summary>
+txtELMFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.ddlSAPCustomerCode">
+	<summary>
+ddlSAPCustomerCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.txtSAPFullName">
+	<summary>
+txtSAPFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.txtOtherInformation">
+	<summary>
+txtOtherInformation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.ddlActive">
+	<summary>
+ddlActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.tblDeleteCaution">
+	<summary>
+tblDeleteCaution control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewCustomers.btnIAmSure">
+	<summary>
+btnIAmSure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.tblDataGrid">
+	<summary>
+tblDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.dgSalesHeader">
+	<summary>
+dgSalesHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.tblDataGrid0">
+	<summary>
+tblDataGrid0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.dgSalesLineItem">
+	<summary>
+dgSalesLineItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.lblItem">
+	<summary>
+lblItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.tblDataGrid1">
+	<summary>
+tblDataGrid1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.dgSalesPartner">
+	<summary>
+dgSalesPartner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.lblPartner">
+	<summary>
+lblPartner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.tblDataGrid2">
+	<summary>
+tblDataGrid2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.dgConditionRecord">
+	<summary>
+dgConditionRecord control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.lblCondition">
+	<summary>
+lblCondition control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ViewCurrentLoad.btnClearCurrentLoad">
+	<summary>
+btnClearCurrentLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePasswordModule.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePasswordModule.txtOldPassword">
+	<summary>
+txtOldPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePasswordModule.txtNewPassword">
+	<summary>
+txtNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePasswordModule.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePasswordModule.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:MDS_ELM.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:MDS_ELM.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:MDS_ELM.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:MDS_ELM.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:MDS_ELM.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:MDS_ELM.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.MaterialMapping.AddNewMaterial">
+	<summary>
+AddNewMaterial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.tblSectionA">
+	<summary>
+tblSectionA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.ddlClient">
+	<summary>
+ddlClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.txtStartDate">
+	<summary>
+txtStartDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.CalendarExtender1">
+	<summary>
+CalendarExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.txtEndDate">
+	<summary>
+txtEndDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.CalendarExtender2">
+	<summary>
+CalendarExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnExtract">
+	<summary>
+btnExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.lblPeriod">
+	<summary>
+lblPeriod control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.tblViewExtract">
+	<summary>
+tblViewExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnExtract0">
+	<summary>
+btnExtract0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.dgViewBillNotes">
+	<summary>
+dgViewBillNotes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnExtract2">
+	<summary>
+btnExtract2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnLoad">
+	<summary>
+btnLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.tblViewLineItems">
+	<summary>
+tblViewLineItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.dgViewLineItems">
+	<summary>
+dgViewLineItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnExtract1">
+	<summary>
+btnExtract1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.tblSuccess">
+	<summary>
+tblSuccess control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnExtract3">
+	<summary>
+btnExtract3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.tblViewUnMapped">
+	<summary>
+tblViewUnMapped control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.dgViewUnMappedCustomers">
+	<summary>
+dgViewUnMappedCustomers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.lblUnMappedCustomers">
+	<summary>
+lblUnMappedCustomers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.dgViewUnMappedDeports">
+	<summary>
+dgViewUnMappedDeports control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.lblUnmappedDepots">
+	<summary>
+lblUnmappedDepots control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnExtract4">
+	<summary>
+btnExtract4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.Extract_From_ELM.btnExtract5">
+	<summary>
+btnExtract5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.lblNumberOfClient">
+	<summary>
+lblNumberOfClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.lblNumberOfBillItems">
+	<summary>
+lblNumberOfBillItems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.lblNumberofDeports">
+	<summary>
+lblNumberofDeports control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.index.lblLoadedSalesOrders">
+	<summary>
+lblLoadedSalesOrders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.StaffMapping.AddNewSalesPerson">
+	<summary>
+AddNewSalesPerson control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.tblDataGrid">
+	<summary>
+tblDataGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.txtSearch">
+	<summary>
+txtSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.TextBoxWatermarkExtender1">
+	<summary>
+TextBoxWatermarkExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.btnSearching">
+	<summary>
+btnSearching control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.ImgBAddNew">
+	<summary>
+ImgBAddNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.ImgBDelete">
+	<summary>
+ImgBDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.dgSalesPerson">
+	<summary>
+dgSalesPerson control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.tblAddNewAccount">
+	<summary>
+tblAddNewAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.ddlELMDepotCode">
+	<summary>
+ddlELMDepotCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.txtELMDepotDescription">
+	<summary>
+txtELMDepotDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.ddlSAPStorageLoactionCode">
+	<summary>
+ddlSAPStorageLoactionCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.txtSAPStorageLocationDescription">
+	<summary>
+txtSAPStorageLocationDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.UpdatePanel3">
+	<summary>
+UpdatePanel3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.ddlSAPSalesOfficeCode">
+	<summary>
+ddlSAPSalesOfficeCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.txtSAPSalesOfficeDescription">
+	<summary>
+txtSAPSalesOfficeDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.UpdatePanel4">
+	<summary>
+UpdatePanel4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.ddlProfitCenterCode">
+	<summary>
+ddlProfitCenterCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.txtProfitCenterDescription">
+	<summary>
+txtProfitCenterDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.tblDeleteCaution">
+	<summary>
+tblDeleteCaution control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.AddNewStorageLocation.btnIAmSure">
+	<summary>
+btnIAmSure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ExtractFromELM.Extract_From_ELM">
+	<summary>
+Extract_From_ELM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navViewPending">
+	<summary>
+navViewPending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navChangePassword">
+	<summary>
+navChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navloadBODS">
+	<summary>
+navloadBODS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.ChangePassword.ChangePasswordModule">
+	<summary>
+ChangePasswordModule control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.navExtract">
+	<summary>
+navExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.navCustomerMapping">
+	<summary>
+navCustomerMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.navStaffMapping">
+	<summary>
+navStaffMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.navStorageLocationMapping">
+	<summary>
+navStorageLocationMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.navMaterialMapping">
+	<summary>
+navMaterialMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.navCreateUser">
+	<summary>
+navCreateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.navLogin">
+	<summary>
+navLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadData.iFrameID">
+	<summary>
+iFrameID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadedByDate.style_color">
+	<summary>
+style_color control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadedByDate.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadedByDate.lblUserFullName">
+	<summary>
+lblUserFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadedByDate.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MDS_ELM.LoadedByDate.lnkMyProfile">
+	<summary>
+lnkMyProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
