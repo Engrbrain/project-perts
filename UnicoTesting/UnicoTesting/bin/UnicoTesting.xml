@@ -1,0 +1,956 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UnicoTesting
+</name>
+</assembly>
+<members>
+<member name="F:UnicoTesting.Extract_From_Legacy1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy1.Extract_From_Legacy">
+	<summary>
+Extract_From_Legacy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.tblAddNewAccount">
+	<summary>
+tblAddNewAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.txtLegacyAccountNumber">
+	<summary>
+txtLegacyAccountNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.txtLegacyAccountDescription">
+	<summary>
+txtLegacyAccountDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.txtSAPAccountNumber">
+	<summary>
+txtSAPAccountNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.txtSAPAccountDescription">
+	<summary>
+txtSAPAccountDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.AddGL_Account.btnRegister">
+	<summary>
+btnRegister control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Login1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Login1.Login">
+	<summary>
+Login control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.tblSectionA">
+	<summary>
+tblSectionA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.txtStartDate">
+	<summary>
+txtStartDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.CalendarExtender1">
+	<summary>
+CalendarExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.txtEndDate">
+	<summary>
+txtEndDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.CalendarExtender2">
+	<summary>
+CalendarExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.btnExtract">
+	<summary>
+btnExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.tblViewBalances">
+	<summary>
+tblViewBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.dgBalances">
+	<summary>
+dgBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.btnBakkk">
+	<summary>
+btnBakkk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.tblViewBalancesDetails">
+	<summary>
+tblViewBalancesDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.dgViewAll">
+	<summary>
+dgViewAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.IdocReport.btnBakkk0">
+	<summary>
+btnBakkk0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.tblSectionA">
+	<summary>
+tblSectionA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.ddlUnicoYear">
+	<summary>
+ddlUnicoYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.ddlUnico_Period">
+	<summary>
+ddlUnico_Period control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.btnExtract">
+	<summary>
+btnExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.tblViewBalances">
+	<summary>
+tblViewBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.dgBalances">
+	<summary>
+dgBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.btnBakkk">
+	<summary>
+btnBakkk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.tblViewBalancesDetails">
+	<summary>
+tblViewBalancesDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.dgBalancesDetails">
+	<summary>
+dgBalancesDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.LoadedData.btnBakkk0">
+	<summary>
+btnBakkk0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:UnicoTesting.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:UnicoTesting.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:UnicoTesting.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:UnicoTesting.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:UnicoTesting.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:UnicoTesting.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:UnicoTesting.RegisterUser.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.tblAddNewAccount">
+	<summary>
+tblAddNewAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtSurname">
+	<summary>
+txtSurname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtFirstName">
+	<summary>
+txtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtOtherNames">
+	<summary>
+txtOtherNames control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtPhoneNumber">
+	<summary>
+txtPhoneNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtUserName">
+	<summary>
+txtUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.RegisterUser.btnRegister">
+	<summary>
+btnRegister control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.tblSectionA">
+	<summary>
+tblSectionA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.ddlUnicoYear">
+	<summary>
+ddlUnicoYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.ddlUnico_Period">
+	<summary>
+ddlUnico_Period control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.btnExtract">
+	<summary>
+btnExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.tblViewBalances">
+	<summary>
+tblViewBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.dgViewGLTable">
+	<summary>
+dgViewGLTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.UnBalancedData.btnBakkk">
+	<summary>
+btnBakkk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.tblSectionA">
+	<summary>
+tblSectionA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.txtPresentDocumentType">
+	<summary>
+txtPresentDocumentType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.txtNewDocumentType">
+	<summary>
+txtNewDocumentType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.btnExtract">
+	<summary>
+btnExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.DocTypeChanger.tblViewBalances">
+	<summary>
+tblViewBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.tblSectionA">
+	<summary>
+tblSectionA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.ddlUnicoYear">
+	<summary>
+ddlUnicoYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.ddlUnico_Period">
+	<summary>
+ddlUnico_Period control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.lnkChangeDate">
+	<summary>
+lnkChangeDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.btnExtract">
+	<summary>
+btnExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.lblPeriod">
+	<summary>
+lblPeriod control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.tblViewGrid">
+	<summary>
+tblViewGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.btnRemoveFromList">
+	<summary>
+btnRemoveFromList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.dgViewGLTable">
+	<summary>
+dgViewGLTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.btnBack">
+	<summary>
+btnBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.btnViewSum">
+	<summary>
+btnViewSum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.btnLoad">
+	<summary>
+btnLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.tblViewBalances">
+	<summary>
+tblViewBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.dgBalances">
+	<summary>
+dgBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.btnBakkk">
+	<summary>
+btnBakkk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.tblViewBalancesDetails">
+	<summary>
+tblViewBalancesDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.dgBalancesDetails">
+	<summary>
+dgBalancesDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.tblViewSuccessFull">
+	<summary>
+tblViewSuccessFull control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Extract_From_Legacy.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.index.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Login.txtUsername">
+	<summary>
+txtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Login.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Login.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Login.btnSignin">
+	<summary>
+btnSignin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Login.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.tblSectionA">
+	<summary>
+tblSectionA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.txtPresentClient">
+	<summary>
+txtPresentClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.txtNewClient">
+	<summary>
+txtNewClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.btnExtract">
+	<summary>
+btnExtract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.SettingsPanel.tblViewBalances">
+	<summary>
+tblViewBalances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Testing.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:UnicoTesting.Testing.AddGL_Account1">
+	<summary>
+AddGL_Account1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
