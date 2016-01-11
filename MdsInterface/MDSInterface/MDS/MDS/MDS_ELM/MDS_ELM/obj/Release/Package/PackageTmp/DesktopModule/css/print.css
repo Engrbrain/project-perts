@@ -1,0 +1,155 @@
+body { 
+  color : #000000; 
+  font-family:Tahoma, Geneva, sans-serif;
+  margin: 0px;
+  font-size: 13px;
+}
+a { 
+  text-decoration : underline; 
+  color : #0000ff; 
+}
+#navigation, #advertising, #other { 
+  display : none; 
+}
+
+#mainContent , .overhang, .screen {
+   display:none;
+}
+
+.Grid2Header{
+	font-weight:bold;
+	height: 25px;
+	color: #FFF;
+	background: #000;
+	}
+	
+ td.displayBtn{
+	   display: none;
+	  }
+ input {
+	 display:none;
+	 
+	 }
+.logoTD {
+   display: none;  
+}
+
+.MainMenu {
+   display: none;  
+}
+
+.BreadcrumbsTD {
+   display: none;  
+}
+.LogoRow {
+   display: none;  
+}
+
+.PrivacyTD{
+	  display: none;  
+	}
+.CopyrightTD{
+	 display: none;  
+	}
+	
+.MenuTD{
+	display: none;
+	}
+.MainMenu_Idle TD{
+	display: none;
+	}
+#hideMe{
+	visibility: hidden;
+	display:none;
+	}
+	
+td.topTable{
+	font-size: 18px;
+	color: #309;
+	border-bottom: solid 1px #CCCCCC;
+	font-weight:bold;
+	}
+td.tablesubHeader{
+	display: none;
+	}
+.tablesubHeader{
+	display: none;
+	}
+
+.hideDiv{
+	display: none;
+	}
+.Receiptclass{
+	border: solid 2px #999999;
+	padding: 10px;
+	background: url(file:///C|/Users/Ir/images/logoPrintBg.jpg) 50% 50% no-repeat;
+	margin: 0 auto;
+	width: 80%;
+	font-size: 20px;
+	}
+.printlogo{
+	height: 76px;
+	background: url(file:///C|/Users/Ir/images/logoHeader.jpg) 0 0 repeat-x;
+	border: solid 4px #999999;
+	}
+.repStyle{
+font-size: 15px;
+color: #0F0870;
+font-weight: bold;
+text-align: center;
+}
+
+
+TD.repPrintText{color:#333; font-weight:bold; font-size: 16px;}
+
+.repPrintTextColor{color: #000; font-weight:bold; font-size: 16px;}
+.repPrintTextColor2{color: #000; font-weight:bold; font-size: 18px;}
+
+.hdBtmTitleUndlne{
+	font-size: 16px;
+	font-weight:bold;
+	text-align: left;
+	text-decoration:NONE;
+	padding-bottom: 10px;
+	text-transform:uppercase;
+	}
+.hdTitle{
+	font-size: 20px;
+	font-weight:bold;
+	text-align: center;
+	}
+.hdBtmTitle{
+	font-size: 18px;
+	font-weight:bold;
+	text-align: center;
+	color:#006;
+	}
+.boldLabel{
+	font-weight: bold;
+	font-size:13px;
+	color:#000;
+	}
+.headingSubTitle{
+	font-size: 15px;
+	font-weight:bold;
+	text-align: left;
+	text-decoration:underline;
+	text-transform:capitalize;
+	color:#039;
+	}
+.boderDiv{
+	border:1px solid #666;
+	width: 95%;
+	padding: 10px;
+	text-align: left;
+	}
+.boderDiv2{
+	border: 2px solid #333;
+	width: 95%;
+	padding: 10px;
+	text-align: left;
+	}
+.passPortPix2{border: solid 1px #EFEFEF; background:#FFF; box-shadow: 1px 1px 5px #666666;
+			 -webkit-box-shadow: 1px 1px 5px #666666;   padding: 5px;}
+			
+.instrText{font-size: 10px; text-align:left;}
